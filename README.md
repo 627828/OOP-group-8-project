@@ -1,2 +1,2 @@
 # OOP-group-8-project
-by 
+by nik, hemma, shelan
